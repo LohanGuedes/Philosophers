@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/clang",
+      "-Wall",
+      "-Wextra",
+      "-Werror",
+      "-pthread",
+      "-g",
+      "-c",
+      "-o",
+      "src/main.o",
+      "src/main.c"
+    ],
+    "directory": "/home/lguedes/Dev/Ecole42/Philosophers/philo",
+    "file": "/home/lguedes/Dev/Ecole42/Philosophers/philo/src/main.c",
+    "output": "/home/lguedes/Dev/Ecole42/Philosophers/philo/src/main.o"
+  }
+]
